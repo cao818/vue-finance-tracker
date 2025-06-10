@@ -22,7 +22,7 @@
 
 ## 📸 项目预览
 
-> 👉 演示地址：[https://yourname.github.io/vue-finance-tracker/](https://yourname.github.io/vue-finance-tracker/)
+> 👉 演示地址：[https://yourname.github.io/vue-finance-tracker/](https://cao818.github.io/vue-finance-tracker/)
 
 ![demo](./public/demo-screenshot.png)
 
@@ -44,7 +44,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourname/vue-finance-tracker.git
+git clone https://github.com/cao818/vue-finance-tracker.git
 cd vue-finance-tracker
 ```
 ### 2. 安装依赖
