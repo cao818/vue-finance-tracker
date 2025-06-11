@@ -89,7 +89,7 @@ npm run deploy
 - 选择 gh-pages 分支，根目录 /
 
 - 保存并等待几分钟即可访问：
-[https://yourname.github.io/vue-finance-tracker/]
+https://cao818.github.io/vue-finance-tracker/
 
 ## 数据导入导出说明
 - 导入和导出格式为 JSON 文件。
